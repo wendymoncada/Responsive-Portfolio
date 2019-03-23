@@ -1,0 +1,174 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #cccccc;
+    position: relative;
+    height: 200px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times, serif;
+    font-size: 40px;
+    float: left;
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times, serif;
+    font-size: 35px;
+    color: #EADA71;
+}
+
+.nav {
+    float: right;
+    margin: 25px;
+    padding-top: 10px;
+    margin-right: 220px;
+}
+
+.container-01 {
+    color: black;
+    background-color: #EADA71;
+    position: absolute;
+    display: inline-block;
+    left: -7px;
+    top: -9px;
+    width: 101%;
+    border-bottom: solid;
+    border-width: thin;
+}
+
+.container-02 {
+    background-color: white;
+    height: 60px;
+    font-size: 40px;
+    font-family: 'Georgia', Times, Times, serif;
+    float: left;
+    line-height: 65px;
+    padding: 15px;
+    margin-left: 220px;
+}
+
+.container-03 {
+    width: 960px;
+    height: 400px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-width: thin;
+    overflow: auto;
+}
+
+.footer {
+    background-color: white;
+    color: black;
+    text-align: center;
+    position: fixed; 
+    width: 110%;
+    left: -10px;
+    border-top: solid;
+    margin-top: 95px;
+    padding: 3px;
+}
+
+.aboutme {
+    border-bottom: solid;
+    border-bottom-color: lightgray;
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+#bio-image {
+    width: 25%;
+    margin-right: 20px;
+    float: left;
+}
+
+a:link {
+    color: rgb(68, 34, 34);
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: black;
+  }
+
+a:hover {
+    color: #666666;
+  }
+
+a:active {
+    color: rgb(173, 173, 173);
+  }
+
+#message {
+    height:150px;
+ }
+
+.image {
+    margin: 5px;
+}
+
+#first {
+    font-size: 20px;
+    position: absolute;
+    top: 242px;
+    left: 25px;
+    width: 22%;
+    color: white;
+    padding: 15px;
+    background-color: #EADA71;
+    text-align: center;
+}
+
+#second {
+    font-size: 20px;
+    position: absolute;
+    top: 242px;
+    left: 289px;
+    width: 22%;
+    color: white;
+    padding: 15px;
+    background-color: #EADA71;
+    text-align: center;
+}
+
+#third {
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 25px;
+    width: 22%;
+    color: white;
+    padding: 15px;
+    background-color: #EADA71;
+    text-align: center;
+}
+
+#fourth {
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 289px;
+    width: 22%;
+    color: white;
+    padding: 15px;
+    background-color: #EADA71;
+    text-align: center;
+}
+
+#fifth {
+    font-size: 20px;
+    position: absolute;
+    top: 665px;
+    left: 25px;
+    width: 22%;
+    color: white;
+    padding: 15px;
+    background-color: #EADA71;
+    text-align: center;
+}
