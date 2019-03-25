@@ -67,7 +67,8 @@ footer {
     line-height: 60px;
     border-top: 5px solid black;
     position: fixed;
-    width: 110%
+    width: 110%;
+    bottom: 0px;
 }
 
 .header {
@@ -235,7 +236,7 @@ a:active {
     }
 
     .container {
-        width: 100%;
+        width: 90%;
         height: auto;
         overflow: hidden;
         margin: 10px;
@@ -284,7 +285,7 @@ a:active {
 @media only screen and (min-width:641px) and (max-width: 768px) {
 
     header {
-        width: 100%;
+        width: 101%;
         position: static;
         overflow: hidden;
         display:inline-block;
